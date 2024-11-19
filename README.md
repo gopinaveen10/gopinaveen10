@@ -48,7 +48,7 @@ Official website of my company, showcasing our services and projects.
 ---
 
 ## 📫 **Connect with Me**
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/gopinaveenmothukuri/](#)
+- 💼 **LinkedIn**: [linkedin.com/in/gopinaveenmothukuri](https://www.linkedin.com/in/gopinaveenmothukuri/)
 - 📧 **Email**: [gopi@example.com](mailto:gopi@example.com)
 
 ---
